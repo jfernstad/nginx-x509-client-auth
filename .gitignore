@@ -1,0 +1,4 @@
+# Ignore generated secrets and certificates
+*.csr
+*.crt
+*.key
